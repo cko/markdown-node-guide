@@ -1,0 +1,15 @@
+body {
+    font-family: "Verdana", sans-serif;
+    width: 60%;
+}
+
+table {
+    border: 0;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid;
+    width: 150px;
+    font-size: 12px;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "2-gulp-generate_pdf",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.6.2",
+    "gulp-markdown-pdf": "^0.2.0"
+  }
+}
